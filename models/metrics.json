@@ -1,0 +1,8 @@
+{
+  "Modèle": "Gradient Boosting",
+  "Accuracy": 0.8732,
+  "Précision": 0.8,
+  "Rappel": 0.5029469548133595,
+  "F1-score": 0.617611580217129,
+  "ROC-AUC": 0.8768451153964945
+}
