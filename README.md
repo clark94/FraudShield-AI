@@ -1,4 +1,4 @@
-# FraudShield AI — Version Excellence
+# FraudShield AI
 
 Application Streamlit professionnelle d’analyse du risque bancaire par intelligence artificielle.
 
